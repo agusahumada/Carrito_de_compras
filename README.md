@@ -1,1 +1,1 @@
-# Carrito_de_compras actualizado
+# Carrito de compras actualizado
